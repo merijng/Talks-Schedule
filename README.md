@@ -6,4 +6,4 @@ Please create an issue.
 |------|------------------------------|---------|
 | Dewin| Swift - Programminglanguage  |1-11-2018|
 | Merijn | Alpha-beta pruning (in context of checkers/draughts)                             |         |
-|      |                              |         |
+| Luuk | Fisher–Yates_shuffle - Algorithm|15-11-2018|
